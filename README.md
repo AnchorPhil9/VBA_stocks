@@ -8,8 +8,10 @@ In the original code, as seen in 2.3.3 (2021), we ran a nested for loop that per
 ## Results ##
 With our new code, we find that the twelve stocks have been a bit volatile between 2017 and 2018. For 2017, as seen in the below image, **the vast majority of stocks performed reasonably well**. Particularly, **AY** and **RUN** both saw comparatively small returns – **at 8.9% and 5.5% respectively** – for the year. The lone stock that lost out on those gains, TERP, only suffered a 7.2% loss of return, signaling that 2017 was an overall good year for the twelve stocks.
 
+![2017 stock performance](VBA_runtimes/All_2017.png "2017 stock performance").
 
 The same can't be said for 2018, however. Only 2 stocks saw positive returns – **ENPH (+81.9%)** and **RUN (+84.0%)** – while the rest suffered setbacks, though to varying degrees. While several stocks like **AY** and **SEDG** only **lost a modest 7-8% of their value**, others like **DQ** and **JKS** suffered greater losses, **peaking at around 60% loss of stock value**.
+![2018 stock performance](VBA_runtimes/All_2018.png "2018 stock performance").
 
 While it may be confusing to evaluate how each stock performed from 2017 to the end of 2018, it is nonetheless doable. As an example, **DQ** in 2017 experienced a great leap in value at nearly **200%**. In other words, if **DQ** stock was evaluated to be worth $100 at the start of 2017, then by the end of 2017, that **DQ** would be worth about $300. Come 2018, the stock vastly underperformed its colleagues, losing around **60%** of its value by the end of 2018. Continuing our earlier example, since **DQ** stock was worth $300 at the start of 2018, then the value dropped to about $120. Compared to $100 back in early 2017, that's a net **20%** jump in value for **DQ**.
 
